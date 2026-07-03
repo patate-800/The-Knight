@@ -81,7 +81,7 @@ function setup() {
     player.x = 144
     player.y = 160
 
-    player.debug = true;
+    player.debug = false;
     player.w = 12
     player.h = 12
     player.anis.offset.y = -4;
